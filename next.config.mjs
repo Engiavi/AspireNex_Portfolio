@@ -1,8 +1,6 @@
 import {withSentryConfig} from '@sentry/nextjs';
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-    output:'export'
-};
+const nextConfig = {};
 
 export default withSentryConfig(withSentryConfig(nextConfig, {
 // For all available options, see:
@@ -43,8 +41,8 @@ automaticVercelMonitors: true,
 // For all available options, see:
 // https://github.com/getsentry/sentry-webpack-plugin#options
 
-org: "no-mzm",
-project: "javascript-nextjs",
+org: "jAvishank",
+project: "Porfolio-nextjs",
 
 // Only print logs for uploading source maps in CI
 silent: !process.env.CI,
