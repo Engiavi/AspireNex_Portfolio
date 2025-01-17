@@ -50,7 +50,7 @@ const Hero = () => {
          from India.
           </h1>
 
-          <a href="https://drive.google.com/drive/u/0/folders/1nB0fIenlu3L210DdUk8yfrzMTKzt_SpI" target="_blank">
+          <a href="https://drive.google.com/file/d/1XHKPvBSRhj0pdF-GU8mYmEwLfzaO6G9J/view?usp=sharing" target="_blank">
           
             <MagicButton
               title=" Show Resume"
